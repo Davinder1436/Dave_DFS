@@ -3,5 +3,14 @@
 
 **To Run the project**
 ```bash
-  go mod run
+  make run
+```
 
+** For Build Only**
+```bash
+  make build
+```
+**To run the Tests**
+```bash
+  make test
+```
